@@ -1,0 +1,9 @@
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\controller\OrderController.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\dto\OrderRequest.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\dto\OrderResponse.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\entity\Customer.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\entity\Product.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\repository\CustomerRepository.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\repository\ProductRepository.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\SpringDataJpaMappingApplication.java
+D:\study_doc\Mamatha\spring-data-jpa-one2many\src\main\java\com\xyz\jpa\utils\OrderConstantField.java

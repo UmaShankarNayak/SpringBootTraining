@@ -1,0 +1,9 @@
+com\xyz\jpa\entity\Customer.class
+com\xyz\jpa\dto\OrderResponse.class
+com\xyz\jpa\SpringDataJpaMappingApplication.class
+com\xyz\jpa\entity\Product.class
+com\xyz\jpa\utils\OrderConstantField.class
+com\xyz\jpa\dto\OrderRequest.class
+com\xyz\jpa\repository\CustomerRepository.class
+com\xyz\jpa\repository\ProductRepository.class
+com\xyz\jpa\controller\OrderController.class
